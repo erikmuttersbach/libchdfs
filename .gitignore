@@ -3,6 +3,8 @@ Makefile
 configure
 .project
 .cproject
+.idea/
+build/
 
 # log
 *.log

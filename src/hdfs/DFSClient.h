@@ -14,7 +14,7 @@
 #include <stdint.h>
 #include <stdlib.h>
 #include <memory>
-#include <tr1/memory>
+/#include <tr1/memory>
 #include <exception>
 
 #include "conf/Configuration.h"
